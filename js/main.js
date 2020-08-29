@@ -14,6 +14,8 @@ $(function () {
 
   });
 
+	
+	/*
   $('#fullpage').fullpage({
 		autoScrolling:true,
     scrollHorizontally: true,
@@ -21,3 +23,5 @@ $(function () {
     scrollingSpeed: 1200,
     });
 });
+
+*/
