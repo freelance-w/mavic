@@ -22,6 +22,6 @@ $(function () {
     sectionSelector: '.page-section',
     scrollingSpeed: 1200,
     });
+    
+    */
 });
-
-*/
